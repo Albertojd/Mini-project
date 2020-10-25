@@ -1,20 +1,19 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Hangman
- ![Screenshot](hangman.png) 
+    ```
+        ┌----┐
+        |    O
+        |   /|\
+        |   / \
+        ┴            
+    ```
 
 ## Descripción:
 
 - En este juego el obejtivo es advinar la palabra elegida por el programa, en un máximo de 7 intentos.
 - Por cada fallo que tengas el programa irá dibujando extremidad por extremidad a una person ahorcada.
-        ```
-        ┌----┐
-        |    O
-        |   /|\
-        |   / \
-        ┴       
-        
-       
+
 ## Código:
 
 El código se basa principalmente en tres funciones:
