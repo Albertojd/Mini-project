@@ -1,2 +1,3 @@
-words = ["python", 'ironhack', 'dog', 'cat', 'mint', 'earth', 'bottle', 'book', 'android', 'pen',
-         'computer', 'glasses', 'cork', 'bicycle', 'guitar', 'screwdriver',"ball", "headphones"]
+animals = ['dog', 'cat', 'elephant', 'bear', 'zebra', 'shark', 'spider', 'cow', "donkey", 'snake', 'tiger', 'bird', 'hamster', 'horse']
+
+python = ['loop', 'list', 'program', 'function', 'lambda', 'map', 'filter', 'string', 'tuple', 'set', 'ironhack', 'yield', 'return', 'reduce']
