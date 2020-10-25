@@ -1,0 +1,7 @@
+## Reflexiones: 
+
+- Todavía me cuesta pensar con la lógica de python, por lo que aunque pareciendo lo más lioso, hice el programa entrero sin ninguna función, todo el código de golpe, para después, ir empaquetando en funciones todo el código.
+
+- Mi gran reto ha sido intentar reducir la última función lo máximo posible, ya que no estoy contento como ha quedado "esteticamente", aun así funciona, ya aprenderé a sintetizar mejor todo.
+
+Lo que más he aprendido con este proyecyo ha sido a ver más claras las funciones, aunque es algo teóricamente sencillo, cuando estoy pensando en escribir un código, me cuesta visualizar las funciones
